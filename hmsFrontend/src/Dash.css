@@ -1,0 +1,56 @@
+.paddingall{
+    padding: 10px 10px 10px 10px;
+}
+
+.revenue{
+    font-weight: 600;
+    font-size: 25px;
+    padding-left: 1px;
+    padding-top: 1px;
+}
+
+.Inventory{
+    font-weight: 600;
+    font-size: 30px;
+    padding-left: 1px;
+    padding-top: 1px;
+}
+
+.IconStyle{
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.IconStyle1{
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+
+.IconStyle2{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    color: rgb(231, 181, 63);
+}
+/*.gradient{
+    background: rgb(40, 34, 70);
+    background: linear-gradient(158deg,  rgba(40, 34, 70, 1) 0%, rgba(51, 69, 172,1) 100%);
+}
+
+/* .gradientLight1{
+    background: rgb(53, 78, 148);
+    background: linear-gradient(158deg,  rgb(53, 78, 148) 0%, rgba(53, 138, 148,1) 100%);
+} 
+
+.gradientLight{
+    background: rgb(53, 138, 148);
+    background: linear-gradient(158deg,  rgba(53, 138, 148, 1) 0%, rgba(91, 180, 96,1) 100%);
+}*/
+
+.bgcolor{
+    min-height: 50;
+    background: #f0efef;
+}
